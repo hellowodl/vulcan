@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.3](https://github.com/nomoixyz/vulcan/compare/v0.4.2...v0.4.3) (2023-10-19)
+
+
+### Features
+
+* new project structure ([#220](https://github.com/nomoixyz/vulcan/issues/220)) ([2d45c4c](https://github.com/nomoixyz/vulcan/commit/2d45c4c9b5072f218514997e6e656d3c2a10262e))
+
 ## [0.4.2](https://github.com/nomoixyz/vulcan/compare/v0.4.1...v0.4.2) (2023-10-10)
 
 
